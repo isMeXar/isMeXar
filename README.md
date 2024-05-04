@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/isMeXar">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,netlify,github,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,netlify,git,github" />
   </a>
 </p>
 
