@@ -45,8 +45,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/isMeXar" style="display: flex; flex-direction: column; align-items: center;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isMeXar&layout=compact&langs_count=8&theme=algolia" style="margin-bottom: 10px;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isMeXar&theme=algolia" style="margin-top: 10px; margin-bottom: 10px;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isMeXar&layout=compact&langs_count=8&theme=algolia&hide_border=true" style="margin-bottom: 10px;">
+    <img height="180em" src="https://streak-stats.demolab.com?user=isMeXar&theme=algolia&hide_border=true" style="margin-top: 10px; margin-bottom: 10px;">
   </a>
 </div>
 
